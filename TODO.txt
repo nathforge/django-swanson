@@ -1,0 +1,7 @@
+* Cache parsed features (MRU)
+* Coverage
+* Test testcases
+* Better docs:
+  * Philosophy of BDD
+  * Writing features (process, workshop, etc.)
+  * Implementing features
